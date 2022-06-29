@@ -1,4 +1,4 @@
-import "progress-circle-card.js?module";
+import "./progress-circle-card.js?module";
 class ContentCardExample extends HTMLElement {
   // Whenever the state changes, a new `hass` object is set. Use this to
   // update your content.
