@@ -1,0 +1,6 @@
+{
+    "name": "Progress Circle",
+    "homeassistant": "2020.12.0",
+    "content_in_root": true,
+    "filename": "progress-circle-card.js"
+}
